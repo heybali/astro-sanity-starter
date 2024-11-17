@@ -1,0 +1,114 @@
+{
+    "model": "cardsSection",
+    "srcType": "sanity",
+    "srcProjectId": "w44rpkk4:production",
+    "presets": [
+        {
+            "label": "card",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "card"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Our Best Deal",
+                "body": "\nCatch the Best Deals in Bali – Your Wallet Will Thank You, and So Will Your Tan!\n\n",
+                "items": [
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "INTERNET",
+                            "theme": "accent"
+                        },
+                        "heading": "Bali Sim Card & eSIM Bali",
+                        "body": "At Hey Bali, we offer the best prices on **Bali SIM cards and eSIMs**, ensuring you stay connected without breaking the bank. Why pay more at the airport or local kiosks when you can save up to $20 by choosing us? Our SIM cards and eSIMs are designed to give you fast, reliable coverage across Bali, with hassle-free activation. Get the best deal, stay online, and enjoy Bali with **extra savings in your pocket!**\n\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more Bali Sim Card",
+                                "url": "https://heybali.info/top-sim-card-and-esim-options-for-fast-internet-in-bali/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-a6b7e970ce78be62065730b9933ecd62d020b981-3584x2048-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "Transport",
+                            "theme": "primary"
+                        },
+                        "heading": "Airport Transfer Bali With Free Rent WiFi Portable",
+                        "body": "Make your Bali arrival hassle-free with our Airport Transfer service, complete with a **FREE portable WiFi rental**. Enjoy seamless internet connection from the moment you step off the plane, whether you need directions, to share photos, or stay in touch. Our reliable transfer service ensures you get to your destination comfortably, while the WiFi keeps you connected every step of the way. \n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more Bali Aiport Transfer",
+                                "url": "https://heybali.info/airport-transfer-in-bali/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-9678f3d21a14d41c787312cbcab1f1d7572a2465-1792x1024-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "aiport Transfer in Bali"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "WELLNESS",
+                            "theme": "secondary"
+                        },
+                        "heading": "Massage Bali Home Service",
+                        "body": "Make your Bali stay more relaxing with our Hey Bali Massage Home Service, available 24 hours a day! Enjoy a rejuvenating massage in the comfort of your own space, whether you're unwinding after a long day of sightseeing or simply looking to pamper yourself. Our professional therapists provide a variety of treatments, from traditional Balinese massages to soothing aromatherapy, ensuring you feel completely relaxed. \n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more Bali Massage",
+                                "url": "https://heybali.info/massage-bali-home-service/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-526274844625e5456416bbbe7214914db73e5b9c-1792x1024-webp",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    }
+                ],
+                "theme": null,
+                "backgroundImage": null,
+                "width": null,
+                "columns": null
+            }
+        }
+    ]
+}
